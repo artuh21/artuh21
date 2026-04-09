@@ -1,12 +1,11 @@
 <h1 align="center">Olá, eu sou Arthur 👋</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=E1DE01&size=28&center=true&vCenter=true&width=1000&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;Python+%7C+Java+%7C+Flutter;Sempre+aprendendo+algo+novo" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=E1DE01&size=28&center=true&vCenter=true&width=1000&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;C+%7C+Java+%7C+Flutter;Sempre+aprendendo+algo+novo" />
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Em%20evolu%C3%A7%C3%A3o-3B572B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Foco-Backend%20e%20Mobile-242A20?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Estudante-CC%20PUC%20Minas-E1DE01?style=for-the-badge&labelColor=10130F" />
 </p>
 
@@ -23,7 +22,7 @@
 ## 🛠️ Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,dart,flutter,sqlite,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,dart,flutter,,github,vscode" />
 </p>
 
 ---
