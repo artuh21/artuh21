@@ -1,46 +1,37 @@
 <h1 align="center">Arthur Campos</h1>
 
 <p align="center">
-  Estudante de Ciência da Computação • PUC Minas
+  <strong>Ciência da Computação • PUC Minas</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=4DA3FF&size=22&center=true&vCenter=true&width=800&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+em+forma%C3%A7%C3%A3o;C+%7C+Java+%7C+Flutter;Sempre+aprendendo+algo+novo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=61AFEF&size=22&center=true&vCenter=true&width=900&lines=Desenvolvedor+em+forma%C3%A7%C3%A3o;Focado+em+projetos+pr%C3%A1ticos;C+%7C+Java+%7C+Flutter+%7C+HTML" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PUC%20Minas-Computer%20Science-0A66C2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Em%20evolu%C3%A7%C3%A3o-1F6FEB?style=flat-square" />
 </p>
 
 ---
 
-## Sobre mim
+### Sobre mim
 
-Sou estudante de **Ciência da Computação** na **PUC Minas**, com foco em desenvolvimento prático e construção de projetos reais.
+- Estudante de **Ciência da Computação**
+- Desenvolvendo projetos com foco em **prática real**
+- Interesse em **desenvolvimento de software** e **solução de problemas**
 
-Atualmente, venho estudando e desenvolvendo aplicações com ênfase em:
+### Tecnologias
 
-- **C**
-- **Java**
-- **Flutter**
-- **HTML**
-
----
-
-## Tecnologias
-
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=c,java,dart,flutter,html,github,vscode&theme=dark" />
 </p>
 
----
+### Projetos
 
-## Projetos em destaque
+- Aplicativo Flutter para gestão de cultivos
+- Projetos acadêmicos de estruturas de dados
 
-- **Aplicativo Flutter para gestão de cultivos**
-- **Projetos acadêmicos de estruturas de dados**
-- **Soluções voltadas para prática e aprendizado em programação**
+### Contato
 
----
-
-## Contato
-
-<p align="center">
-  <a href="mailto:camposarthur@gmail.com">camposarthur@gmail.com</a>
-</p>
+- **Email:** camposarthur@gmail.com
